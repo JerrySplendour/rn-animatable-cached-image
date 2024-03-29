@@ -1,0 +1,25 @@
+{
+  "name": "rn-animatable-cached-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-animatable": "^1.4.0",
+    "react-native-fs": "^2.20.0",
+    "react-native-image-colors": "^2.4.0",
+    "react-native-progress": "^5.0.1",
+    "shorthash": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.73",
+    "@types/react-native": "^0.73.0",
+    "metro-react-native-babel-preset": "^0.77.0",
+    "typescript": "^5.4.3"
+  }
+}
