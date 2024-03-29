@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerrySplendour/rn-animatable-cached-image.git"
+  },
   "dependencies": {
     "react-native-animatable": "^1.4.0",
     "react-native-fs": "^2.20.0",
